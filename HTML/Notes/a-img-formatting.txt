@@ -1,0 +1,34 @@
+Anchor tag:
+===========
+>Anchor tag is used to link web pages/other resources.we hava a property/attribute to give the link as 'href'.
+>we use a tag for this. To open new tab we can use 'target' attribute with '_blank' value.
+  EX: <a href="link">text</a>
+      <a> href="file path"download>text</a>
+          you can also use mailto and tel for different protocols
+
+Img:
+====
+>Images can be inserted into HTMl by img tag.
+   EX:<img src="path"alt="">
+        -img is a self closing tag.they are also called empty elements/unpaired tags.
+        -src attribute contains patth,when src failed to load the image,alt text will print.
+>we can also adjust height and width of image.
+
+Formatting tags:
+================
+>Formatting tags are used to format the text.
+  b           -- used to make the text bold.
+  strong      -- used to make the text bold but search engines gives more importance to it than b tag.
+  i           -- used to make the text itaalic.
+  em          -- used to make the text italic but search engines gives more importance to it than i tag.
+  u           -- used to make the text underlinked.
+  del         -- used to make the text striked out(according to search engine its delected).
+  ins         -- used to make the text inserted according to search engine but it appears as underlined.
+  sup         -- used to write superscript.
+  sub         -- used to write subscript.
+  br          -- used to break the line.
+  hr          -- used to make horizontal line.
+  mark        -- used to mark / highlight the text.
+  pre         --used to write preformatted text.
+  code        --used to write codes.
+    

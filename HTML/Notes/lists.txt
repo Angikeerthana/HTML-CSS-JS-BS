@@ -1,0 +1,44 @@
+Lists:
+=======
+   EX:grocery list,todo list,list of subjects,list of food(menu),ingridents,movies list,contact list.
+>List in HTML can be denoted in three ways.
+    1.ordered lists
+    2.unordered lists
+    3.definition lists/description lists
+
+1.ordered lists:
+================
+>Some list need an order to represent the items.those are defined by ordered lists.ordered lists use 'ol' tag.each list item inside the list use 'li' tag.
+  EX: <ol>
+           <li>abc</li>
+           <li>xyz</li>
+        <ol>
+    By default numbers will be assigned as type.we can assign any type we want.we have five option(1,A,a,i,I)
+    We can also start from wherever we want by defining start attribute
+
+2.unordered lists:
+=================
+>These lists are used when the order is not important.
+>unordered lists used 'ul' tag
+  EX:
+    <ul type="none">
+        <li>milk</li>
+        <li>rice</li>
+        <li>oreo</li>
+    </ul>
+    we ccan use types such as circle,square,none 
+    by dedault bullet points will be there
+
+3.Definition lists:
+====================
+>These lists are used to define topics, to keep history.
+>Definition Lists use dl tag. inside the dl,we have dt(definition term)and dd(definition data).
+  EX:
+     dl>
+        <dt>HTML</dt>
+        <dd>Hypertext Markup Language</dd>
+        <dt>CSS</dt>
+        <dd>Cascading Style</dd>
+        <dt>JS</dt>
+        <dd>JavaScript</dd>
+    </dl>  

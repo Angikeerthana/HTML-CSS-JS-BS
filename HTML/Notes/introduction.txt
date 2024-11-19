@@ -1,0 +1,15 @@
+(Q)HTML(HyperTest Markup Language):
+  > HTML is used for the structure/skeleton of a web page.HTML started by tim Berner's Lee.
+  > GML(Generalized markup Language)--->SGML(Standard generalized markup language)--->HTMl.Current version of html is HTML5.
+  >HTML consists of tags.tags are represented in two ways
+     1.open tag(<tagname>)
+     2.Close tag(</tagname>)
+         Whole HTML code is between HTMl open and close tags.HTML contains two elements such as head and body. head also contains
+         Title
+
+  >We can generate basic templete using elements such as !+ enter,html:5+ enter(short form)          
+>the gap on left of elements to make code more readable is known indentation.   
+
+
+TASK: 1.Write a commment stating it is your first html,create html template with proper,HELLO WORLD
+========

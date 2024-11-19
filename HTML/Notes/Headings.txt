@@ -1,0 +1,19 @@
+HEADINGS:
+=========
+>Headings are used to implement important words or main feature of certain context.
+>HTML provides 6 headings from h1 to h6.
+>The main differences between headings are size and important
+    <h1>Hello Headings</h1>
+    <h2>Hello Headings</h2>
+    <h3>Hello Headings</h3>
+    <h4>Hello Headings</h4>
+    <h5>Hello Headings</h5>
+    <h6>Hello Headings</h6>
+    <h7>HELLO GOOD MORING</h7>  {it is not heading}
+
+PARAGRAPH:
+========== 
+    To write/Display paragraph in html,we use paragraph tag.
+>Lorem is an emmet to generate dummy paragraph
+  i.e.,<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione, illo. Omnis laborum temporibus quos at sunt consequatur placeat harum soluta ducimus cupiditate expedita amet illum, molestiae doloremque officia quidem dolorem dignissimos accusamus, dolor magnam maxime? Optio nisi ea delectus. Provident debitis id doloribus voluptatibus maiores quod expedita, eveniet similique minus quae natus pariatur iste voluptatem. Voluptate rem dignissimos odio nesciunt expedita officiis maiores inventore obcaecati itaque aperiam, sapiente aliquid quod? Atque doloremque voluptates quos soluta odio veniam autem vel modi! Debitis, earum? Perferendis magni facere minima tempore ex, quae delectus eum veniam recusandae, mollitia nemo itaque culpa non ipsam doloremque.</p>
+
