@@ -72,14 +72,9 @@ Basic Selectors:
 
 Combinators:
 ===========
-direct-child(>): we can identify an element direct child
- using >
-descendant(' ') : we can identify an element using space combinator for descendants
-Eg: div>h1 means h1 which is direct child of div
-div h1 means h1 which is descendant of div
-Adjacent sibling selector(+):
-we can identify an element which comes right after another 
-element using '+'
-General Sibling Selector(~):
-we can identify an element which comes after an element 
-using ~
+direct-child(>)                      --- we can identify an element direct child using >
+descendant(' ')                      ---we can identify an element using space combinator for descendants
+  EX: div>h1 means h1 which is direct child of div
+     div h1 means h1 which is descendant of div
+Adjacent sibling selector(+)         ---we can identify an element which comes right after another element using '+'
+General Sibling Selector(~)          ---we can identify an element which comes after an element using ~
