@@ -31,7 +31,7 @@ body{
 }
 /* px,em,rem,vh,vw,%*/
 .box{
-    background-color: ;
+    background-color:black ;
     height: 2.5rem; /* 1 em = 1 time of parent font size
     1 rem = 16px */
     width: 50%;
